@@ -1,6 +1,10 @@
 [
-	{ "id": "1", "name": "Airpods Wireless", "description": "Airpods Wireless", "price": "89.99" },
-	{ "id": "2", "name": "MacBook", "description": "MacBook", "price": "500.00" },
-	{ "id": "3", "name": "Playstation 5", "description": "Playstation 5", "price": "300.00" },
-	{ "id": 4, "name": "Test Product", "description": "Test Product", "price": 100 }
+	{ "id": "1", "name": "Airpods Wireless", "description": "Airpods Wireless", "price": 89.99 },
+	{ "id": "2", "name": "MacBook", "description": "MacBook", "price": 500 },
+	{ "id": "3", "name": "Playstation 5", "description": "Playstation 5", "price": 300 },
+	{ "id": "e52c4cac-0e9c-40c6-8082-02863e58dd6f", "name": "Gabriel's Product", "description": "Test", "price": 100 },
+	{ "id": "97ee6c07-1b7c-4f20-9867-cd8093471345", "name": "Gabriel's Product", "description": "Test", "price": 100 },
+	{ "id": "e4e66424-b50e-47c8-9e6c-6a96393ed14c", "name": "Gabriel's Product", "description": "Test", "price": 100 },
+	{ "id": "9e8db16b-514b-4ff3-a4d9-6d019299fa3b", "name": "Gabriel's Product", "description": "Test", "price": 100 },
+	{ "id": "c0ddcc20-58b6-4c81-b218-b099a469b96a", "name": "Gabriel's Product 2", "description": "Test", "price": 100 }
 ]
